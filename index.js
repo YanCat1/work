@@ -13,7 +13,8 @@ wedo = document.querySelector('.wedo')
 c = document.querySelector('.c')
 spike = document.querySelector('.spike')
 child = document.querySelector('.child')
-
+weeks = document.querySelector('.weeks')
+month = document.querySelector('.month')
 
 flag = false
 flag1 = false
@@ -50,7 +51,16 @@ experience.onclick=function(){
         course.style.display = 'none'
     }
 }
-
+// 课程点击
+// function Click(ele,name){
+//     ele.onclick=function(){
+//         showData.src = "//player.bilibili.com/player.html?aid=644200934&bvid=BV1SY4y1w7H3&cid=794246857&page=1&high_quality=1&danmaku=0&as_wide=1"
+//         course.style.display = 'none'
+//         experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
+//         flag1 = false
+    
+//     }
+// }
 python.onclick=function(){
     showData.src = "//player.bilibili.com/player.html?aid=644200934&bvid=BV1SY4y1w7H3&cid=794246857&page=1&high_quality=1&danmaku=0&as_wide=1"
     course.style.display = 'none'
@@ -88,4 +98,13 @@ child.onclick=function(){
     experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
     flag1 = false
 
+}
+
+// 周待办
+weeks.onclick=function(){
+    window.open('weeks.html');
+}
+// 月待办
+month.onclick=function(){
+    window.open('month.html');
 }
