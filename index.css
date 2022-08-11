@@ -12,9 +12,7 @@ body{
 li{
     list-style: none;
 }
-.bor-red{
-    border:1px solid red;
-}
+
 .bor-black{
     border:1px solid black;
 }
