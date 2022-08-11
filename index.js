@@ -52,7 +52,7 @@ experience.onclick=function(){
 }
 
 python.onclick=function(){
-    showData.src = "//player.bilibili.com/player.html?aid=208625550&bvid=BV1wh411n7fi&cid=428926083&page=1&high_quality=1&danmaku=0&as_wide=1"
+    showData.src = "//player.bilibili.com/player.html?aid=644200934&bvid=BV1SY4y1w7H3&cid=794246857&page=1&high_quality=1&danmaku=0&as_wide=1"
     course.style.display = 'none'
     experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
     flag1 = false
@@ -60,14 +60,14 @@ python.onclick=function(){
 }
 
 wedo.onclick=function(){
-    showData.src = "//player.bilibili.com/player.html?aid=208625550&bvid=BV1wh411n7fi&cid=428926083&page=1&high_quality=1&danmaku=0&as_wide=1"
+    showData.src = "//player.bilibili.com/player.html?aid=644200934&bvid=BV1SY4y1w7H3&cid=794246857&page=1&high_quality=1&danmaku=0&as_wide=1"
     course.style.display = 'none'
     experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
     flag1 = false
 }
 
 c.onclick=function(){
-    showData.src = "//player.bilibili.com/player.html?aid=208625550&bvid=BV1wh411n7fi&cid=428926083&page=1&high_quality=1&danmaku=0&as_wide=1"
+    showData.src = "//player.bilibili.com/player.html?aid=644200934&bvid=BV1SY4y1w7H3&cid=794246857&page=1&high_quality=1&danmaku=0&as_wide=1"
     course.style.display = 'none'
     experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
     flag1 = false
@@ -75,7 +75,7 @@ c.onclick=function(){
 }
 
 spike.onclick=function(){
-    showData.src = "//player.bilibili.com/player.html?aid=208625550&bvid=BV1wh411n7fi&cid=428926083&page=1&high_quality=1&danmaku=0&as_wide=1"
+    showData.src = "//player.bilibili.com/player.html?aid=644200934&bvid=BV1SY4y1w7H3&cid=794246857&page=1&high_quality=1&danmaku=0&as_wide=1"
     course.style.display = 'none'
     experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
     flag1 = false
@@ -83,7 +83,7 @@ spike.onclick=function(){
 }
 
 child.onclick=function(){
-    showData.src = "//player.bilibili.com/player.html?aid=208625550&bvid=BV1wh411n7fi&cid=428926083&page=1&high_quality=1&danmaku=0&as_wide=1"
+    showData.src = "//player.bilibili.com/player.html?aid=644200934&bvid=BV1SY4y1w7H3&cid=794246857&page=1&high_quality=1&danmaku=0&as_wide=1"
     course.style.display = 'none'
     experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
     flag1 = false

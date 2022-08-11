@@ -63,6 +63,9 @@ li{
 }
 
 /* 新入职员工 */
+.new:hover{
+    cursor: pointer;
+}
 .category{
     width: 200px;
     height: 100px;
@@ -86,9 +89,35 @@ li{
 .icon-sanjiao1{
     margin-left: 10px;
 }
+
+/* 周待办 */
+.left-nav .weeks{
+    cursor: pointer;
+    transition: 0.3s;
+}
+.left-nav .weeks:hover{
+    background-color: #fff;
+    color:black !important;
+    font-weight: bold;
+}
+
+/* 月代办 */
+.left-nav .month{
+    cursor: pointer;
+    transition: 0.3s;
+}
+.left-nav .month:hover{
+    background-color: #fff;
+    color:black !important;
+    font-weight: bold;
+}
+
 /* 体验课 */
 .experience{
     position: relative;
+}
+.experience:hover{
+    cursor: pointer;
 }
 .course{
     position: absolute;
