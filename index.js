@@ -66,7 +66,7 @@ function Click(ele,srcName){
             course.style.display = 'none'
             experienceI.className = 'experienceI iconfont icon-arrow_left_fat'
             flag1 = false
-               title.innerText = ele.innerText
+            title.innerText = ele.innerText
          }
 }
 // 视频地址
